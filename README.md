@@ -4,11 +4,19 @@ An AI-powered chat page for your design portfolio. Recruiters and hiring manager
 
 Built with Next.js, Tailwind CSS, and the Anthropic API (Claude). Designed to be forked and customised in under 10 minutes.
 
+![Portfolio AI Chat](./public/screenshot.png)
+
 ---
 
 ## Demo
 
 > Add a link to your live demo here once deployed.
+
+### Welcome Screen
+![Portfolio AI Chat](./public/screenshot.png)
+
+### Chat in Action
+![Portfolio AI Chat Response](./public/screenshot-chat.png)
 
 ---
 
@@ -61,9 +69,7 @@ Visit [http://localhost:3000](http://localhost:3000).
 
 ## Deploy to Vercel (one click)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/portfolio-ai-chat&env=ANTHROPIC_API_KEY&envDescription=Your%20Anthropic%20API%20key%20from%20console.anthropic.com&envLink=https://console.anthropic.com)
-
-> Update the URL above with your actual GitHub username and repo name before publishing.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/modusops/portfolio-ai-chat&env=ANTHROPIC_API_KEY&envDescription=Your%20Anthropic%20API%20key%20from%20console.anthropic.com&envLink=https://console.anthropic.com)
 
 Vercel will prompt you for your `ANTHROPIC_API_KEY` during deploy. No other config needed.
 
