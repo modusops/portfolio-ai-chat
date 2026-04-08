@@ -162,6 +162,14 @@ Using the default Haiku model, a typical recruiter session (4–8 messages) cost
 
 ---
 
+## Support & Updates
+
+Sign up at https://admirable-bread-46586.myflodesk.com/s0b9uxp7sp to get setup instructions, support, and updates.
+
+The repo is freely forkable. If you're satisfied and enjoyed the work, I'd greatly appreciate a star ⭐ or a subscribe. Thank you!
+
+---
+
 ## License
 
 MIT — fork it, ship it, make it yours.
